@@ -8,6 +8,16 @@
     font-family: 'Montserrat', sans-serif;
 }
 
+body {
+    height: 100vh;
+}
+
+#root {
+
+    background-color: rgb(65, 58, 72);
+    color: aliceblue;
+}
+
 .d-flex {
     display: flex;
 }
@@ -20,11 +30,7 @@ a {
     text-decoration: none;
     color: aliceblue;
 }
+
 a:hover {
     color: rgb(227, 158, 171);
-}
-
-#root {
-    background-color: rgb(65, 58, 72);
-    color: aliceblue;
 }

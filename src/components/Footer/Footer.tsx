@@ -1,8 +1,8 @@
-import React from 'react'
+import "./Footer.css"
 
 function Footer() {
   return (
-    <footer>
+    <footer className="d-flex">
       <p>© Copyright MovieDB 2023</p>
     </footer>
   )

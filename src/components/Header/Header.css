@@ -1,0 +1,7 @@
+header {
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 10px;
+    height: 5rem;
+    background-color: rgb(255, 42, 0);
+}

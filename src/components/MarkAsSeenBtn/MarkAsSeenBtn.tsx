@@ -1,7 +1,11 @@
 
 function MarkAsSeenBtn() {
+  const seenIt = () => {
+    console.log('seen it');
+    
+  }
   return (
-    <button>Seen it</button>
+    <button onClick={seenIt}>Seen it</button>
   )
 }
 

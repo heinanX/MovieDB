@@ -1,0 +1,6 @@
+.MovieCard {
+    flex-direction: column;
+}
+.MovieCard img {
+    width: 100px;
+}

@@ -1,0 +1,6 @@
+.MovieList-div {
+    gap: 1rem;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 3rem;
+}
